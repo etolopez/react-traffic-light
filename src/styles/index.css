@@ -1,12 +1,11 @@
+.traffic-off {
+    width: 80px;
+ 	height: 80px;
+}
 
-/* 
-
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+.traffic-on {
+    width: 80px;
+ 	height: 80px;
+	border-color: #9ecaed;
+    box-shadow: 0 0 10px #9ecaed;
+}
